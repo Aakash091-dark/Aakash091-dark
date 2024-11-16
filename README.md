@@ -1,8 +1,28 @@
-👋 Hi, I’m @Aakash Sehrawat.
-👀 I’m interested in Data Science, AI, Machine Learning, Deep Learning, Data Visualization, Natural Language Processing (NLP), and building impactful software solutions for businesses and healthcare.
-🌱 I’m currently learning advanced Data Science techniques, Generative AI, enterprise-grade system development, and scalable cloud solutions with a focus on Microsoft Azure.
-💞️ I’m looking to collaborate on innovative Data Science and AI/ML projects, hackathons, and large-scale enterprise tools that streamline processes and improve efficiency.
-📫 How to reach me via email or LinkedIn for opportunities and collaborations.
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m a Microsoft Student Ambassador, deeply passionate about solving real-world problems using data-driven insights and cutting-edge AI!
+<h1 align="center">Hi 👋, I'm Aakash Sehrawat</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **AarogyaTantra**
+
+- 🌱 I’m currently learning **Data Science, AI, Machine Learning, Deep Learning, Data Visualization, Natural Language Processing (NLP)**
+
+- 👯 I’m looking to collaborate on **innovative Data Science and AI/ML projects, hackathons, and large-scale enterprise tools that streamline processes and improve efficiency**
+
+- 🤝 I’m looking for help with **developing enterprise-level AI systems, optimizing ML workflows, and integrating AI in healthcare and business applications.**
+
+- 💬 Ask me about **Data Science, AI, and ML workflows for solving real-world challenges. Building intelligent systems, like virtual assistants or automated enterprise solutions. Hackathons, innovation strategies, and collaborative AI/ML projects. Optimizing business operations using data-driven insights and cutting-edge technology. Developing scalable cloud applications with Azure or hybrid frameworks. Designing user-centric dashboards and real-time analytics with Power BI**
+
+- 📫 How to reach me **aakashhssehrawat@gmail.com**
+
+- ⚡ Fun fact **I’m a Microsoft Student Ambassador, deeply passionate about solving real-world problems using data-driven insights and cutting-edge AI!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ssehrawat_z91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssehrawat_z91" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aakashh ssehrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashh ssehrawat" height="30" width="40" /></a>
+<a href="https://kaggle.com/aakash sehrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash sehrawat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aakash sehrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakash sehrawat" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
