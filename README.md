@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, AI, and ML workflows for solving real-world challenges. Building intelligent systems, like virtual assistants or automated enterprise solutions. Hackathons, innovation strategies, and collaborative AI/ML projects. Optimizing business operations using data-driven insights and cutting-edge technology. Developing scalable cloud applications with Azure or hybrid frameworks. Designing user-centric dashboards and real-time analytics with Power BI**
 
-- 📫 How to reach me **aakashhssehrawat@gmail.com**
+- 📫 How to reach me **sehrawataakash091@gmail.com**
 
 - ⚡ Fun fact **I’m a Microsoft Student Ambassador, deeply passionate about solving real-world problems using data-driven insights and cutting-edge AI!**
 
