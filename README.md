@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Sehrawat</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **AarogyaTantra**
+- 🔭 I’m currently working on **AarogyaCraft**
 
 - 🌱 I’m currently learning **Data Science, AI, Machine Learning, Deep Learning, Data Visualization, Natural Language Processing (NLP)**
 
