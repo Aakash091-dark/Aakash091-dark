@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI--900-AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI--102-Azure%AI%Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-Data%20Analytics-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
