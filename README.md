@@ -14,7 +14,7 @@
       <ul>
         <li><strong>Location:</strong> New Delhi, India</li>
         <li><strong>Email:</strong> aakashhssehrawat@gmail.com</li>
-        <li><strong>Phone:</strong> 8178402069</li>
+        <li><strong>Phone:</strong> +91 9217030815</li>
       </ul>
     </td>
     <td>
