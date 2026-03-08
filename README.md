@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/akashhrsehrawat">LinkedIn</a> |
   <a href="mailto:aakashhssehrawat@gmail.com">Email</a> |
-  <a href="https://github.com/Aakash091-dark">GitHub</a>
+  <a href="https://github.com/Aakash091-dark">GitHub</a> |
+  <a href="https://mywebsite-jaiqtarnl-aakash-r-sehrawats-projects.vercel.app/">Portfolio</a>
 </p>
 
 ---
